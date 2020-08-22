@@ -1,0 +1,4 @@
+# Systems-Design
+
+The following documents are work created from designing a system diagram for a fictitious client DriverPass. DriverPass has a goal to create an online system where new drivers are able to register for driving classes. This was to address an issue where they found many drivers failing their road tests and to provide them an opportunity to prepare with up to date information from local DMVs.
+In the system design, I made sure to address every required function that the client wanted in their system. I also layed out the system requirements and recommendations to meet those requirements. Addressing the clients needs is very important because these will be the pieces that they will be looking for in their system, while any other funtions that may be good to introduce that the client did not specifically state but would be a beneficial inclusion is just optional.
